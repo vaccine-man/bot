@@ -7,4 +7,8 @@ This project maintains main logic for the bot.
 
 This project requires Python to compile and run.
 
+`main.py` accepts and processes user request, serving live slot data if available.
+
+`vaccine_update_user_on_interval.py` runs periodically to check for slots and notify users.
+
 Don't forget to give stars to the project if you like it.
