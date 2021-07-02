@@ -1,0 +1,4 @@
+logs
+.env
+Constants.py
+__pycache__
